@@ -3,16 +3,10 @@
         <img src="{{ .thumb }}" alt="" />
     </a>
     <div class="caption">
-        {{ with .title }}
-        <h3>{{ . }}</h3>
-        {{ end }}
-        {{ with .content }}
-        <p>{{ . }}</p>
-        {{ end }}
-        {{ with .button }}
+        <h3>{{ .title }}</h3>
+        <p>{{ .content }}</p>
         <ul class="actions fixed">
-            <li><span class="button small">{{ . }}</span></li>
+            <li><span class="button small">{{ .button }}</span></li>
         </ul>
-        {{ end }}
     </div>
 </article>

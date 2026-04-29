@@ -4,6 +4,8 @@
 
 theme = "hugo-story"
 
+path = "github.com/hugolify/hugolify-admin"
+
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
