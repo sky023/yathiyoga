@@ -13,7 +13,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = ""
+baseURL = "https://sky023.github.io/yathiyoga/"
 publishDir = "public"
 
 # Remote
