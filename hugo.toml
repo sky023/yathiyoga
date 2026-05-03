@@ -4,7 +4,7 @@
 
 theme = "hugo-story"
 
-path = "github.com/caressofsteel/hugo-story"
+path = "https://sky023.github.io/yathiyoga/"
 
 ## -----------------------------------------------
 ## Publish
@@ -14,11 +14,11 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = ""
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#baseURL = "https://sky023.github.io/yathiyoga/"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
